@@ -1,0 +1,20 @@
+{
+  "name": "unique-array-utils",
+  "version": "1.0.1",
+  "description": "A utility library for array operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "utilities",
+    "array-utils"
+  ],
+  "author": "Jatin",
+  "license": "ISC",
+  "dependencies": {
+    "array-utils": "file:",
+    "unique-array-utils": "file:"
+  }
+}
